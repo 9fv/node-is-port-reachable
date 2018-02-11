@@ -2,27 +2,27 @@
 [npm-badge-url]: https://www.npmjs.com/package/@9fv.io&#x2F;is-port-reachable
 [npm-downloads-badge]: https://img.shields.io/npm/dt/@9fv.io&#x2F;is-port-reachable.svg
 [npm-downloads-url]: https://npmjs.org/package/@9fv.io&#x2F;is-port-reachable
-[travis-badge]: https://img.shields.io/travis/9fv/node-repeat-until-success/master.svg?label=TravisCI
-[travis-badge-url]: https://travis-ci.org/9fv/node-repeat-until-success
-[circle-badge]: https://circleci.com/gh/9fv/node-repeat-until-success/tree/master.svg?style=svg&circle-token=
-[circle-badge-url]: https://circleci.com/gh/9fv/node-repeat-until-success/tree/master
-[coveralls-badge]: https://coveralls.io/repos/github/9fv/node-repeat-until-success/badge.svg?branch=master
-[coveralls-badge-url]: https://coveralls.io/github/9fv/node-repeat-until-success?branch=master
-[codeclimate-badge]: https://img.shields.io/codeclimate/github/9fv/node-repeat-until-success.svg
-[codeclimate-badge-url]: https://codeclimate.com/github/9fv/node-repeat-until-success
-[ember-observer-badge]: http://emberobserver.com/badges/node-repeat-until-success.svg
-[ember-observer-badge-url]: http://emberobserver.com/addons/node-repeat-until-success
+[travis-badge]: https://img.shields.io/travis/9fv/node-is-port-reachable/master.svg?label=TravisCI
+[travis-badge-url]: https://travis-ci.org/9fv/node-is-port-reachable
+[circle-badge]: https://circleci.com/gh/9fv/node-is-port-reachable/tree/master.svg?style=svg&circle-token=
+[circle-badge-url]: https://circleci.com/gh/9fv/node-is-port-reachable/tree/master
+[coveralls-badge]: https://coveralls.io/repos/github/9fv/node-is-port-reachable/badge.svg?branch=master
+[coveralls-badge-url]: https://coveralls.io/github/9fv/node-is-port-reachable?branch=master
+[codeclimate-badge]: https://img.shields.io/codeclimate/github/9fv/node-is-port-reachable.svg
+[codeclimate-badge-url]: https://codeclimate.com/github/9fv/node-is-port-reachable
+[ember-observer-badge]: http://emberobserver.com/badges/node-is-port-reachable.svg
+[ember-observer-badge-url]: http://emberobserver.com/addons/node-is-port-reachable
 [license-badge]: https://img.shields.io/npm/l/@9fv.io&#x2F;is-port-reachable.svg
 [license-badge-url]: LICENSE.md
-[dependencies-badge]: https://img.shields.io/david/9fv/node-repeat-until-success.svg
-[dependencies-badge-url]: https://david-dm.org/9fv/node-repeat-until-success
-[devDependencies-badge]: https://img.shields.io/david/dev/9fv/node-repeat-until-success.svg
-[devDependencies-badge-url]: https://david-dm.org/9fv/node-repeat-until-success#info=devDependencies
-[greenkeeper-badge]: https://badges.greenkeeper.io/9fv/node-repeat-until-success.svg
+[dependencies-badge]: https://img.shields.io/david/9fv/node-is-port-reachable.svg
+[dependencies-badge-url]: https://david-dm.org/9fv/node-is-port-reachable
+[devDependencies-badge]: https://img.shields.io/david/dev/9fv/node-is-port-reachable.svg
+[devDependencies-badge-url]: https://david-dm.org/9fv/node-is-port-reachable#info=devDependencies
+[greenkeeper-badge]: https://badges.greenkeeper.io/9fv/node-is-port-reachable.svg
 [greenkeeper-badge-url]: https://greenkeeper.io/
 
 
-node-repeat-until-success
+node-is-port-reachable
 ====================
 
 Tests if a host port is accessible by validating the formatting of the host and the port beforehand.

@@ -4,7 +4,7 @@
   },
   "github": {
     "USER_NAME": "9fv",
-    "REPO_NAME": "node-repeat-until-success"
+    "REPO_NAME": "node-is-port-reachable"
   },
   "sources": {
     "path": "lib/",
