@@ -113,8 +113,8 @@ Please refer to project's style guidelines and guidelines for submitting patches
 
 ## <a name="credits"> Credits
 
-* [node-host-port](https://github.com/9fv/node-host-port)
-* Thanks to [Paul Schneider](https://stackoverflow.com/users/4547337/paul-schneider) for his [Stackoverflow answer](https://stackoverflow.com/q/29356800) about network connection timeout.
+* [node-is-port-reachable](https://github.com/9fv/node-is-port-reachable)
+* [node-repeat-until-success](https://github.com/9fv/node-repeat-until-success)
 
 ## <a name="history"> History
 
